@@ -111,7 +111,7 @@ int main()
 	{
 	system("CLS");
 	cout<<"\n\n\t\t\t\t======================\n";
-	cout<<"\t\t\t\tBANK MANAGEMENT SYSTEM";
+	cout<<"\t\t\t\t IDE BANK MANAGEMENT SYSTEM";
 	cout<<"\n\t\t\t\t======================\n";
 
 		cout<<"\t\t\t\t    ::MAIN MENU::\n";
